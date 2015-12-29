@@ -1,0 +1,12 @@
+{
+  "name": "demonbot",
+  "author": "Demon000",
+  "dependencies": {
+    "colors": ">=1.1.2",
+    "dotenv": "^1.2.0",
+    "sandbox": ">=0.8.6",
+    "superagent": "^1.5.0",
+    "wolfram-alpha": "^0.3.0",
+    "xkcd-imgs": "^1.0.0"
+  }
+}
