@@ -1,7 +1,7 @@
 # demonbot
 
-## Examples
-* `eval ```2 + 2``` returns ```4``` `
+## Example
+* `eval 2 + 2` returns `4` (this allows any safe javascript operation)
 * `wolfram USA` will show information about USA
 * `mdn innerHTML` will show a list of pages matching `innerHTML`
 * `cat` will show an image of a random cat(FreeCodeCamp taught me well)
